@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="405257b6-396b-4a30-b851-a877d6f794d1" name="Changes" comment="" />
+    <list default="true" id="405257b6-396b-4a30-b851-a877d6f794d1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,10 +81,14 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.extraction" />
+        <item itemvalue="Python.extraction" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="405257b6-396b-4a30-b851-a877d6f794d1" name="Changes" comment="" />
@@ -116,6 +122,6 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1010" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/article_extraction$extraction.coverage" NAME="extraction Coverage Results" MODIFIED="1655696483890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/article_extraction" />
+    <SUITE FILE_PATH="coverage/article_extraction$extraction.coverage" NAME="extraction Coverage Results" MODIFIED="1655698337152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/article_extraction" />
   </component>
 </project>
